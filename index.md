@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Hello World!
+title: 李维的日志
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [李维的主页](http://liweilog.info)
+Read [李维的github主页](http://liweilog.info)
     
 ## 日志
 
